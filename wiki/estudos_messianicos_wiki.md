@@ -122,6 +122,14 @@ graph TD
 - **Arquivos Base**: `biblias/KJV.json`, `biblias/TR.json`, `biblias/Vulgate.json`
 - **Referências Bíblicas**: João 3:16, João 14:6, 1 João 4:9-10, Romanos 5:8
 
+#### ✅ **[[Ensinamentos_de_Jesus_Guide]]** ✅
+- **Status**: **COMPLETO** - Guia completo dos ensinamentos de Jesus
+- **Descrição**: Análise sistemática dos ensinamentos de Jesus Cristo
+- **Conteúdo**: Bem-aventuranças, Pai Nosso, parábolas, declarações "Em verdade vos digo", ensinamentos sobre Reino, amor, oração, riquezas, perdão
+- **Impacto**: **ALTO** - Aplicação prática dos ensinamentos
+- **Arquivos Base**: `biblias/KJV.json`, `biblias/TR.json`, `biblias/Vulgate.json`
+- **Referências Bíblicas**: Sermão da Montanha (Mateus 5-7), João 14-17, Lucas 6:20-49, Mateus 13 (parábolas), Mateus 6:9-13 (Pai Nosso)
+
 > [!success] **Status**: Primeiro estudo fundamental criado
 > O guia primordial da revelação central foi criado com storytelling e cruzamento de informações das Escrituras para encontrar a verdade escondida e óbvia.
 
@@ -167,13 +175,14 @@ graph TD
 - **Arquivos Base**: `biblias/KJV.json`, `biblias/TR.json`
 - **Referências Bíblicas**: Lucas 1-2, Mateus 1-2, Marcos 1:1-13, João 1:1-18
 
-#### 4️⃣ **[[Ensinamentos_de_Jesus_Guide]]** ❌
+#### 4️⃣ **[[Ensinamentos_de_Jesus_Guide]]** ✅
+- **Status**: **COMPLETO** - Guia completo dos ensinamentos de Jesus
 - **Descrição**: Análise sistemática dos ensinamentos de Jesus Cristo
-- **Conteúdo**: Sermões, parábolas, conversas, princípios, aplicação prática
+- **Conteúdo**: Bem-aventuranças, Pai Nosso, parábolas, declarações "Em verdade vos digo", ensinamentos sobre Reino, amor, oração, riquezas, perdão
 - **Dependências**: Evangelhos, contexto cultural
 - **Impacto**: Alto - Aplicação prática dos ensinamentos
-- **Arquivos Base**: `biblias/KJV.json`, `biblias/TR.json`
-- **Referências Bíblicas**: Sermão da Montanha (Mateus 5-7), João 14-17, Lucas 6:20-49
+- **Arquivos Base**: `biblias/KJV.json`, `biblias/TR.json`, `biblias/Vulgate.json`
+- **Referências Bíblicas**: Sermão da Montanha (Mateus 5-7), João 14-17, Lucas 6:20-49, Mateus 13 (parábolas), Mateus 6:9-13 (Pai Nosso)
 
 #### 5️⃣ **[[Milagres_de_Jesus_Guide]]** ❌
 - **Descrição**: Estudo dos milagres realizados por Jesus Cristo

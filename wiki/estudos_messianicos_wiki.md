@@ -130,6 +130,14 @@ graph TD
 - **Arquivos Base**: `biblias/KJV.json`, `biblias/TR.json`, `biblias/Vulgate.json`
 - **Referências Bíblicas**: Sermão da Montanha (Mateus 5-7), João 14-17, Lucas 6:20-49, Mateus 13 (parábolas), Mateus 6:9-13 (Pai Nosso)
 
+#### ✅ **[[Morte_Ressurreicao_Guide]]** ✅
+- **Status**: **COMPLETO** - Guia completo da morte e ressurreição de Jesus
+- **Descrição**: Análise da morte e ressurreição de Jesus Cristo
+- **Conteúdo**: Cronologia dos eventos, crucificação, ressurreição, aparições pós-ressurreição, sete palavras da cruz, significado teológico, aplicação pessoal
+- **Impacto**: **ALTO** - Evento central da fé cristã
+- **Arquivos Base**: `biblias/KJV.json`, `biblias/TR.json`, `biblias/Vulgate.json`
+- **Referências Bíblicas**: Mateus 27-28, Marcos 15-16, Lucas 23-24, João 19-21, 1 Coríntios 15, Isaías 53
+
 > [!success] **Status**: Primeiro estudo fundamental criado
 > O guia primordial da revelação central foi criado com storytelling e cruzamento de informações das Escrituras para encontrar a verdade escondida e óbvia.
 
@@ -194,13 +202,14 @@ graph TD
 
 ### 🎯 **Temas Especializados (6-10)**
 
-#### 6️⃣ **[[Morte_Ressurreicao_Guide]]** ❌
+#### 6️⃣ **[[Morte_Ressurreicao_Guide]]** ✅
+- **Status**: **COMPLETO** - Guia completo da morte e ressurreição de Jesus
 - **Descrição**: Análise da morte e ressurreição de Jesus Cristo
-- **Conteúdo**: Crucificação, sepultamento, ressurreição, aparições, significado teológico
+- **Conteúdo**: Cronologia dos eventos, crucificação, ressurreição, aparições pós-ressurreição, sete palavras da cruz, significado teológico, aplicação pessoal
 - **Dependências**: Evangelhos, cartas paulinas
 - **Impacto**: Alto - Evento central da fé cristã
-- **Arquivos Base**: `biblias/KJV.json`, `biblias/TR.json`
-- **Referências Bíblicas**: Mateus 27-28, Marcos 15-16, Lucas 23-24, João 19-21
+- **Arquivos Base**: `biblias/KJV.json`, `biblias/TR.json`, `biblias/Vulgate.json`
+- **Referências Bíblicas**: Mateus 27-28, Marcos 15-16, Lucas 23-24, João 19-21, 1 Coríntios 15, Isaías 53
 
 #### 7️⃣ **[[Parábolas_de_Jesus_Guide]]** ❌
 - **Descrição**: Estudo sistemático das parábolas de Jesus

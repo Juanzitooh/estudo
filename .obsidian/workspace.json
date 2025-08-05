@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "wiki/Ensinamentos_de_Jesus_Guide.md",
+                "file": "wiki/Morte_Ressurreicao_Guide.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ensinamentos_de_Jesus_Guide"
+              "title": "Morte_Ressurreicao_Guide"
             }
           }
         ]
@@ -171,6 +171,8 @@
   "active": "88491b3e58eea8df",
   "lastOpenFiles": [
     "wiki/Revelacao_Central_Guide.md",
+    "wiki/Ensinamentos_de_Jesus_Guide.md",
+    "wiki/Morte_Ressurreicao_Guide.md",
     "wiki/estudos_messianicos_wiki.md"
   ]
 }
